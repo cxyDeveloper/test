@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="renwu" Type="Plist" ID="6a60a7a4-b8a7-41d6-9193-4e609716027a" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="renwu/ai_icon.png" />
+      <FilePathData Path="renwu/baihaogangshou_icon.png" />
+      <FilePathData Path="renwu/baihaoying_icon.png" />
+      <FilePathData Path="renwu/baiyihu_icon.png" />
+      <FilePathData Path="renwu/baqidashewan_icon.png" />
+      <FilePathData Path="renwu/baweiniugui_icon.png" />
+      <FilePathData Path="renwu/changshilang_icon.png" />
+      <FilePathData Path="renwu/chunyeying_icon.png" />
+      <FilePathData Path="renwu/daitu_icon.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

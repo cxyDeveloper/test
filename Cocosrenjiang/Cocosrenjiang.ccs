@@ -1,0 +1,39 @@
+<Solution>
+  <PropertyGroup Name="Cocosrenjiang" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="loging">
+          <Image Name="MainLoadingSlideBg.png" />
+          <Image Name="NewLoadingBg.png" />
+          <Image Name="MainLoadBg.png" />
+          <Image Name="bgdibanmainloadingimage_MainLoading_mainloadingimage_ServerInfoPart_mainloadingimage_mainloadingimage.png" />
+          <Image Name="EnterGame_mainloadingimage.png" />
+          <Image Name="enterGamedown_mainloadingimage.png" />
+          <TTF Name="huawenheiti.ttf" />
+          <Image Name="MainLoadingtext.png" />
+          <TTF Name="yegenyouziti.ttf" />
+        </Folder>
+        <Project Name="loginScene.csd" Type="Scene" />
+        <PlistInfo Name="renwu.csi" Type="Plist" />
+        <Folder Name="renwu">
+          <Image Name="ai_icon.png" />
+          <Image Name="baihaogangshou_icon.png" />
+          <Image Name="baihaoying_icon.png" />
+          <Image Name="baiyihu_icon.png" />
+          <Image Name="baqidashewan_icon.png" />
+          <Image Name="baweiniugui_icon.png" />
+          <Image Name="changshilang_icon.png" />
+          <Image Name="chunyeying_icon.png" />
+          <Image Name="daitu_icon.png" />
+        </Folder>
+        <Project Name="RoleScene.csd" Type="Scene" />
+        <Image Name="ui_zhuchangjin.png" />
+        <Image Name="tongyong10normal.png" />
+        <Image Name="tongyong10down.png" />
+        <Project Name="Scene.csd" Type="Scene" />
+        <File Name="bingding.fla" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
